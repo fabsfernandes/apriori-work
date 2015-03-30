@@ -1,0 +1,1 @@
+This project is a work of the discipline Data Mining of the Doctoral Course in Computer Science at Federal University of Uberlandia (UFU). More details about the course: http://www.deamo.prof.ufu.br/CursoDM2014.html
